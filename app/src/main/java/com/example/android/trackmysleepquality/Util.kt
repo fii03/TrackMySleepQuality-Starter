@@ -19,7 +19,7 @@ package com.example.android.trackmysleepquality
 import android.annotation.SuppressLint
 import android.content.res.Resources
 import java.text.SimpleDateFormat
-
+ 
 /**
  * These functions create a formatted string that can be set in a TextView.
  */
